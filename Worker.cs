@@ -25,6 +25,7 @@ namespace TheGameOfDice
                 try
                 {
                     Console.WriteLine("\n\n\t\t\t################### Welcome to The Game of Dice ###################");
+                    Console.WriteLine("\n\t\t\t###################       Starting Game         ###################");
                     _diceGameBL.StartGame();
                 }
                 catch (Exception ex)

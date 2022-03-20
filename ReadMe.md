@@ -21,7 +21,7 @@ ends when all players have accumulated at least M points.
 ### Run game using docker
 
 1. Create a docker image using DockerFile included in project. Run the command - `docker build -t <insert-img-tag> -f Dockerfile .`
-2. Run the contaoner using command - `docker run -it <insert-img-tag>`
+2. Run the container using command - `docker run -it <insert-img-tag>`
 
 ### If you don't have Docker installed, follow this
 
